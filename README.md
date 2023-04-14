@@ -8,7 +8,7 @@
 
 **How to run this app**
 
-Click on this link here :[Link](https://pekka1721.github.io/weatherapp/) 
+Click on this link here :[Github Pages](https://pekka1721.github.io/weatherapp/) 
 ---
 **Run this application locally**
 -  ` To clone` this repo
